@@ -1,0 +1,39 @@
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(204, 43%, 93%);
+}
+
+
+.btn {
+    background-color: hsl(71, 73%, 54%);
+}
+
+#box-one {
+    background-color: white;
+}
+
+#box-two {
+    background-color: hsl(179, 62%, 43%);
+}
+
+#box-three {
+    background-color: hsl(179, 71%, 46%);
+}
+
+.h2 {
+    color: hsl(179, 62%, 43%);
+}
+
+.h2+.h4 {
+    color: hsl(71, 73%, 54%);
+}
+
+#info {
+    color: hsl(218, 22%, 67%);
+}
+
+#tutorial,
+#month {
+    color: hsla(203, 44%, 93%, 0.493);
+
+}
