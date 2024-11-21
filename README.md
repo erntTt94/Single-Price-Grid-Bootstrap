@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/erntTt94/Single-Price-Grid-Bootstrap](https://github.com/erntTt94/Single-Price-Grid-Bootstrap)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ernttt94.github.io/Single-Price-Grid-Bootstrap/](https://ernttt94.github.io/Single-Price-Grid-Bootstrap/)
 
 ## My process
 
