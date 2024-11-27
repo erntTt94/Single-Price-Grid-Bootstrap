@@ -3,6 +3,9 @@ body {
     background-color: hsl(204, 43%, 93%);
 }
 
+.container {
+    height: 100vh;
+
 
 .btn {
     background-color: hsl(71, 73%, 54%);
